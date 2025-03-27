@@ -1,0 +1,11 @@
+2025-03-19 13:47:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sherian Rodrigues\eclipse-workspace\OpenCart\master_testng.xml
+
+2025-03-19 13:47:58 INFO  TC_001_AccountRegistrationTest:16 - **** Starting TC_001_AccountRegistrationTest ****
+2025-03-19 13:47:58 INFO  TC_001_AccountRegistrationTest:23 - **** Clicked on My Account tab ****
+2025-03-19 13:47:58 INFO  TC_001_AccountRegistrationTest:25 - **** Clicked on Register link ****
+2025-03-19 13:47:58 INFO  TC_001_AccountRegistrationTest:29 - **** Providing registration details ****
+2025-03-19 13:48:00 INFO  TC_001_AccountRegistrationTest:44 - **** Validation expected message ****
+2025-03-19 13:48:04 INFO  TC002_LoginTest:15 - **** TC002 Login Test Started ***
+2025-03-19 13:48:04 INFO  TC002_LoginTest:19 - Click on My Account tab
+2025-03-19 13:48:04 INFO  TC002_LoginTest:21 - Click on Login tab
